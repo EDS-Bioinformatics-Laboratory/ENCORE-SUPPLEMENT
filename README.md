@@ -18,7 +18,14 @@
 
 
 
-**MANUSCRIPTS**
+**PRESENTATIONS**
 
-* **ENCORE_v22_MetaArXiv**. Pre-print of the Nature Communications publication.
+* Bioinformatics Laboratory
+  * **ENCORE_CoreFacilities_11March2024.pptx**. Presentation given for the Amsterdam UMC [core facilities](https://www.amsterdamumc.org/en/research/core-facility.htm) to explain the relation between ENCORE and ongoing Research Data Management (FAIR) initiatives.
+
+
+
+**PUBLICATIONS**
+
+* **ENCORE_v22_MetaArXiv**. Pre-print of the Nature Communications publication. https://doi.org/10.31222/osf.io/m9yqz
 
