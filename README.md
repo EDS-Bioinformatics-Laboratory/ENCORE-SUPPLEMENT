@@ -12,16 +12,31 @@
 
 
 
+**DOCUMENTATION**
+
+* **Step_by_Step_Guide**. ENCORE User Guide
+* **GitHub**. Documentation about GitHub. Note: the Step by Step Guide also contains Git/GitHub documentation but this will be moved to the GitHub directory in the future.
+  * **Git-Commits.docx**. Explanation of the relation between commits and branches
+
+
+
+
+
+
 **FIGURES**
 
 * **NatureCommunications-2024**. Figures used in the Nature Communication paper (Van Kampen et al, 2024). These figures are also used by the [ENCORE WIKI](https://github.com/EDS-Bioinformatics-Laboratory/ENCORE/wiki).
 
 
 
+
+
 **PRESENTATIONS**
 
-* Bioinformatics Laboratory
+* [**Bioinformatics Laboratory**](https://bioinformaticslaboratory.eu/)
   * **ENCORE_CoreFacilities_11March2024.pptx**. Presentation given for the Amsterdam UMC [core facilities](https://www.amsterdamumc.org/en/research/core-facility.htm) to explain the relation between ENCORE and ongoing Research Data Management (FAIR) initiatives.
+
+
 
 
 
