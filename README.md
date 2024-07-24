@@ -44,3 +44,32 @@
 
 * **ENCORE_v22_MetaArXiv**. Pre-print of the Nature Communications publication. https://doi.org/10.31222/osf.io/m9yqz
 
+
+
+
+
+***
+
+ENCORE WIKI
+
+* https://github.com/EDS-Bioinformatics-Laboratory/ENCORE/wiki
+
+ENCORE Discussions
+
+* https://github.com/EDS-Bioinformatics-Laboratory/ENCORE/discussions
+
+ENCORE template:
+
+* https://github.com/EDS-Bioinformatics-Laboratory/ENCORE
+
+Compendium Navigator: 
+
+* https://github.com/EDS-Bioinformatics-Laboratory/FSS-Navigator
+
+AUTOMATION:
+* https://github.com/EDS-Bioinformatics-Laboratory/ENCORE_AUTOMATION
+
+ENCORE SUPPLEMENT: 
+* https://github.com/EDS-Bioinformatics-Laboratory/ENCORE-SUPPLEMENT
+
+***
