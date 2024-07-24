@@ -34,7 +34,7 @@
 **PRESENTATIONS**
 
 * [**Bioinformatics Laboratory**](https://bioinformaticslaboratory.eu/)
-  * **ENCORE_CoreFacilities_11March2024.pptx**. Presentation given for the Amsterdam UMC [core facilities](https://www.amsterdamumc.org/en/research/core-facility.htm) to explain the relation between ENCORE and ongoing Research Data Management (FAIR) initiatives.
+  * **ENCORE_CoreFacilities_11March2024.pptx**. Presentation given for the Amsterdam UMC [core facilities](https://www.amsterdamumc.org/en/research/core-facility.htm) to explain the relation between ENCORE and ongoing Research Data Management (FAIR) initiatives. [[YouTube](https://www.youtube.com/watch?v=VVVPO_M0hvg)]
 
 
 
